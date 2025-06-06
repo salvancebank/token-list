@@ -1,0 +1,7 @@
+{
+  "name": "Solvance",
+  "symbol": "SLV",
+  "description": "O banco meme de Solana.",
+  "image": "https://raw.githubusercontent.com/salvancebank/solvance-token-data/main/solvance_logo_256x256.png",
+  "decimals": 9
+}

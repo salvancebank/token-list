@@ -1,0 +1,14 @@
+{
+  "chainId": 101,
+  "address": "ApNTdB7irWgybdtsSudAvUF75s5ckMJbUse1YdGgiQui",
+  "symbol": "SLV",
+  "name": "Solvance",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/salvancebank/solvance-token-data/main/solvance_logo_256x256.png",
+  "tags": [
+    "meme",
+    "defi",
+    "banco",
+    "solana"
+  ]
+}
